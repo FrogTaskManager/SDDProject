@@ -1,0 +1,52 @@
+
+ .wrap{text-align:left; width:90%; margin:0 auto; border:8px solid black; margin-top:15px; }
+ 
+  .header{background-color:#DAF7A6; text-align:left; padding: 25px; }
+
+   .main{background-color:#00C4C7;text-align:left; padding: 25px; }
+
+    .footer{background-color:#DAF7A6;text-align:left; padding: 25px; color:#006DC7; }
+.headerImg{float:left; width: 150px;}
+.headerText{float:left; height: 105px; padding-top:25px;}
+
+
+#navcontainer ul
+{
+list-style-type: none;
+text-align: left;
+}
+
+#navcontainer ul li a
+{
+background: #DAF7A6;
+padding-left: 5px;
+text-align: left;
+font: normal 20px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
+text-decoration: none;
+color: #006DC7;
+}
+
+#navcontainer ul li a:hover
+{
+background: #00C4C7;
+color: #006DC7;
+}
+
+#navcontainer ul li a#current
+{
+background:#006DC7;
+color:#DAF7A6;
+}
+
+
+
+
+
+
+body{text-align:left;
+    background-color:#00C4C7;
+}
+
+h1{
+    color:#006DC7;
+}
